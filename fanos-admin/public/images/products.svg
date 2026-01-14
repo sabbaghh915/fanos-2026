@@ -1,0 +1,13 @@
+<svg width="38" height="38" viewBox="0 0 38 38" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Icon/Fill/layout">
+<path id="Mask" fill-rule="evenodd" clip-rule="evenodd" d="M33.25 12.6667V9.5C33.25 6.88117 31.1188 4.75 28.5 4.75H9.5C6.88117 4.75 4.75 6.88117 4.75 9.5V12.6667H33.25ZM4.75 15.8333V28.5C4.75 31.1188 6.88117 33.25 9.5 33.25H17.4167V15.8333H4.75ZM20.5833 33.25V15.8333H33.25V28.5C33.25 31.1188 31.1188 33.25 28.5 33.25H20.5833Z" fill="#231F20"/>
+<mask id="mask0_4_147" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="4" y="4" width="30" height="30">
+<path id="Mask_2" fill-rule="evenodd" clip-rule="evenodd" d="M33.25 12.6667V9.5C33.25 6.88117 31.1188 4.75 28.5 4.75H9.5C6.88117 4.75 4.75 6.88117 4.75 9.5V12.6667H33.25ZM4.75 15.8333V28.5C4.75 31.1188 6.88117 33.25 9.5 33.25H17.4167V15.8333H4.75ZM20.5833 33.25V15.8333H33.25V28.5C33.25 31.1188 31.1188 33.25 28.5 33.25H20.5833Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_4_147)">
+<g id="&#240;&#159;&#142;&#168; Color">
+<rect id="Base" width="38" height="38" fill="#D39B2D"/>
+</g>
+</g>
+</g>
+</svg>

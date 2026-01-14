@@ -1,0 +1,35 @@
+{
+    "results": [
+        {
+            "product": "OnePlus"
+            
+        },
+       {
+        "product": "Samsung"
+    },
+    {
+        "product": "Iphone"
+    },
+    {
+        "product": "MI"
+    }
+       
+    ],
+    "location": [
+
+{
+    "loc": "Pune"
+},
+{
+    "loc": "Mumbai"
+},
+{
+    "loc": "Hyderabad"
+},
+{
+    "loc": "Chennai"
+}
+
+
+    ]
+}

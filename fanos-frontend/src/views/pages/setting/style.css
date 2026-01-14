@@ -1,0 +1,13 @@
+.custom-phone-input {
+    /* Your custom styles here */
+    padding: 18px !important;
+    height: 30px !important;
+    border-radius: 8px;
+    border: 1px solid #E8ECF4;
+    background: #F7F8F9;
+    color: #242424;
+    font-size: 15px;
+    font-weight: 500 !important;
+    width: -webkit-fill-available;
+    margin-top: 8px;
+  }
